@@ -5,4 +5,4 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
 fi
 
 PS1='>>>'
-clear && cd && cd .. && cd usr && cd etc && cd termux-password && python login.py && clear && cd && cd .. && cd usr && cd etc && cd termux-password && python Haker.py && cd 
+clear && cd && cd .. && cd usr && cd etc && cd termux-password && python login.py && clear && cd && cd .. && cd usr && cd etc && cd termux-password && python Haker.py && cd
